@@ -3,7 +3,7 @@
 //  Swift Fun
 //
 //  Created by Adam Harper on 2017-09-18.
-//  Copyright © 2017 Adam Harper. All rights reserved.
+//  Copyright © 2017 Adam Harper. All rights reserved..
 //
 
 import UIKit
@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         
         buttonCount = buttonCount + 1
         
-        print(buttonCount)
+
         
         if buttonCount >= 10 {
             view.backgroundColor = UIColor.darkGray
