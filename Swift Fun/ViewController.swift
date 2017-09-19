@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         
         buttonCount = buttonCount + 1
         
-
+        print(buttonCount)
         
         if buttonCount >= 10 {
             view.backgroundColor = UIColor.darkGray
